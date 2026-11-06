@@ -14,7 +14,6 @@ Tema escuro para Omarchy 4.5, inspirado em TRON: Legacy. Ciano elétrico só ond
 | `shell.lock.toml` | Tela de bloqueio: Circuit em repouso, Electric ao digitar, Red em erro |
 | `icons.theme` | Ícones `Yaru-blue` |
 | `keyboard.rgb` | Teclado RGB em Electric (`00e5ff`) |
-| `tools/contrast.py` | Valida o contraste WCAG do `colors.toml` |
 
 Cada `shell.*.toml` substitui a seção inteira do `shell.toml` gerado, por isso todos listam todas as chaves.
 
@@ -49,11 +48,27 @@ O Omarchy exige estas cores e a paleta aprovada não as define. Foram derivadas 
 - `bright_red` `#FF8A96`, `bright_yellow` `#FFE08F`, `bright_green` `#7DF0BE`.
 - `bright_foreground` `#FFFFFF`, necessário porque White já é o `foreground` e o Omarchy pede um branco mais claro para cursor e ANSI 15.
 
-## Validar
+## Contraste (WCAG 2.x)
+
+Razões calculadas com a fórmula de luminância relativa do WCAG. O mínimo para texto é 4,5:1.
+
+| Texto | Sobre Void | Sobre Deep | Sobre Grid |
+| --- | --- | --- | --- |
+| `foreground` (White) | 18,82 | 17,68 | 16,53 |
+| `light_foreground` (Silver) | 13,91 | 13,07 | 12,22 |
+| `muted` | 6,90 | 6,48 | 6,06 |
+| `accent` (Electric) | 13,13 | 12,33 | 11,53 |
+| Pior cor ANSI (`red` sobre Void, `brown` sobre Grid) | 6,38 | não medido | 5,22 |
+| `dark_foreground` (Disabled) | 3,64 | 3,42 | 3,20 |
+
+- White sobre a seleção Deep Blue: 8,47. Electric sobre a seleção: 5,91.
+- Disabled fica abaixo de 4,5 de propósito, porque é texto desativado.
+- A borda de janela inativa (Deep Blue sobre Void) tem 2,22, abaixo dos 3:1 recomendados para elementos de interface. É discreta de propósito.
+
+Para ver a paleta no terminal sem aplicar o tema:
 
 ```bash
-python3 tools/contrast.py            # contraste WCAG
-omarchy dev theme-preview colors.toml --no-osc   # paleta no terminal, sem aplicar
+omarchy dev theme-preview colors.toml --no-osc
 ```
 
 ## Instalar para testar

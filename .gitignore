@@ -1,7 +1,4 @@
-# Python and editor caches
-__pycache__/
-*.py[cod]
-.venv/
+# Editor files
 .DS_Store
 *.swp
 
