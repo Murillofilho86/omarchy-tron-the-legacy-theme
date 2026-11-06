@@ -1,27 +1,25 @@
-# Replaces the whole [controls] section, so every key is listed.
-# Idle chrome stays on the circuit line. Electric appears only on focus and selection.
 [controls]
-normal-color        = "#F0F8FF"
+normal-color        = "#f0f8ff"
 normal-fill-alpha   = 0.04
-normal-border       = "#087CA7"
+normal-border       = "#087ca7"
 normal-border-width = 1
 normal-border-alpha = 0.45
 
-hover-cursor-color        = "#F0F8FF"
+hover-cursor-color        = "#f0f8ff"
 hover-cursor-fill-alpha   = 0.08
-hover-cursor-border       = "#00A9D6"
+hover-cursor-border       = "#00a9d6"
 hover-cursor-border-width = 1
 hover-cursor-border-alpha = 0.5
 
-focus-color        = "#00E5FF"
+focus-color        = "#00e5ff"
 focus-fill-alpha   = 0.08
-focus-border       = "#00E5FF"
+focus-border       = "#00e5ff"
 focus-border-width = 1
 focus-border-alpha = 0.8
 
-selected-color        = "#00E5FF"
+selected-color        = "#00e5ff"
 selected-fill-alpha   = 0.18
-selected-border       = "#00E5FF"
+selected-border       = "#00e5ff"
 selected-border-width = 1
 selected-border-alpha = 0.45
 

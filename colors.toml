@@ -1,51 +1,39 @@
-# TRON // Digital Frontier — Omarchy 4.5 core palette
-# Design tokens: Void #03070D · Deep #07111D · Grid #0B1928 · Elevated #12263A
-#                Electric #00E5FF · Cyan #00A9D6 · Circuit #087CA7 · Deep Blue #164B78
-#                White #F0F8FF · Silver #C5D9E8 · Muted #819AAF · Disabled #526B82
-#                Orange #FF8A3D · Red #FF5263 · Green #43E6A2 · Amber #FFD166
+# TRON // Digital Frontier
 mode = "dark"
 
-# Electric = identity. Used only for focus, active and selected elements.
-accent = "#00E5FF"
-# Deep Blue = secondary accent. Text selection and highlighted rows.
-selection = "#164B78"
-selection_background = "#164B78"
-selection_foreground = "#F0F8FF"
-# Muted = comments, inactive text, ANSI bright black (slot 8).
-muted = "#819AAF"
+accent = "#00e5ff"
+selection = "#164b78"
+selection_background = "#164b78"
+selection_foreground = "#f0f8ff"
+muted = "#819aaf"
 
-# Void is the floor: terminal, bar and popups. Deep and Grid add depth for
-# sidebars, floating windows and cards, in that order.
-background = "#03070D"
-dark_background = "#07111D"
-darker_background = "#03070D"
-lighter_background = "#0B1928"
+# Void is the floor. Grid is for cards and the current line.
+background = "#03070d"
+dark_background = "#03070d"
+darker_background = "#03070d"
+lighter_background = "#0b1928"
 
-# White = primary text. Silver = secondary. Disabled = inactive.
-foreground = "#F0F8FF"
-dark_foreground = "#526B82"
-light_foreground = "#C5D9E8"
-bright_foreground = "#FFFFFF"
+foreground = "#f0f8ff"
+dark_foreground = "#526b82"
+light_foreground = "#c5d9e8"
+bright_foreground = "#ffffff"
 
-# ANSI colors 1-6. Blue, magenta and brown are not in the design palette and
-# were derived so that each reads at 5:1 or better on Void.
-red = "#FF5263"
-yellow = "#FFD166"
-orange = "#FF8A3D"
-green = "#43E6A2"
-cyan = "#00A9D6"
-blue = "#4F9CF9"
-magenta = "#D06BFF"
-brown = "#C27A4A"
+red = "#ff5263"
+yellow = "#ffd166"
+orange = "#ff8a3d"
+green = "#43e6a2"
+cyan = "#00a9d6"
+blue = "#4f9cf9"
+magenta = "#d06bff"
+brown = "#c27a4a"
 
-# ANSI colors 9-14.
-bright_red = "#FF8A96"
-bright_yellow = "#FFE08F"
-bright_green = "#7DF0BE"
-bright_cyan = "#00E5FF"
-bright_blue = "#8DBCFF"
-bright_magenta = "#DD99FF"
+bright_red = "#ff8a96"
+bright_yellow = "#ffe08f"
+bright_green = "#7df0be"
+bright_cyan = "#00e5ff"
+bright_blue = "#8dbcff"
+bright_magenta = "#dd99ff"
 
-# Active window: Electric to Cyan light trail. Inactive: Deep Blue, discreet.
+# Active window: electric to cyan trail. Inactive: deep blue.
 hyprland_active_border = "rgba(00e5ffee) rgba(00a9d6ee) 45deg"
 hyprland_inactive_border = "rgba(164b78aa)"

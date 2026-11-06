@@ -1,10 +1,8 @@
-# Replaces the whole [bar] section, so every key is listed.
 [bar]
-# Nearly opaque Void. Orange flags modules that need attention (alerts, updates).
-background       = "#03070D"
+background       = "#03070d"
 background-alpha = 0.95
-text             = "#F0F8FF"
-active           = "#FF8A3D"
+text             = "#f0f8ff"
+active           = "#ff8a3d"
 scale-with-font  = true
 size-horizontal  = 26
 size-vertical    = 28
