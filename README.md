@@ -66,15 +66,18 @@ White on the Deep Blue selection is 8.47 and Electric on it is 5.91. Disabled te
 
 ## Wallpapers
 
-<p align="center">
-  <img src="backgrounds/tron-rio-digital-frontier.webp" alt="Rio de Janeiro at night as a TRON grid: a cyan-outlined Christ the Redeemer above Guanabara Bay, with orange light trails along the roads and Sugarloaf Mountain" width="100%">
-</p>
+Both wallpapers are roughly 1672 × 941 and not native 4K. Click an image to open the full-resolution file. Cycle between them with `omarchy theme bg next`.
 
-**Rio · Digital Frontier.** Cyan geometry over a dark city, with orange light trails on the roads.
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="backgrounds/01-tron-rio-digital-frontier.webp"><img src="backgrounds/01-tron-rio-digital-frontier.webp" alt="Rio de Janeiro at night as a TRON grid: a cyan-outlined Christ the Redeemer above Guanabara Bay, with orange light trails along the roads and Sugarloaf Mountain" width="100%"></a><br><b>Rio · Digital Frontier</b><br>Cyan geometry over a dark city, with orange light trails on the roads.</td>
+    <td width="50%" align="center"><a href="backgrounds/02-tron-new-york-dark-water-reflections.webp"><img src="backgrounds/02-tron-new-york-dark-water-reflections.webp" alt="A cyan-lit New York skyline with the Empire State Building under a thin glowing arc, mirrored in still dark water" width="100%"></a><br><b>New York · Dark Water Reflections</b><br>A quiet neon skyline over still water, with plenty of dark space for windows.</td>
+  </tr>
+</table>
 
-The wallpaper is 1672 × 941 and not native 4K. Landscape displays work best, and fill mode on ultrawide, 16:10 or portrait displays may crop the statue.
+Landscape displays work best. Fill mode on ultrawide, 16:10 or portrait displays may crop the edges.
 
-The wallpaper was generated with ChatGPT (OpenAI image generation).
+The wallpapers were generated with ChatGPT (OpenAI image generation).
 
 ## License
 
