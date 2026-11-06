@@ -1,0 +1,10 @@
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.swp
+
+# Local drafts and desktop captures
+drafts/
+previews/

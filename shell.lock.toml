@@ -1,0 +1,14 @@
+# Replaces the whole [lock] section, so every key is listed.
+# Idle border is Circuit, typing is Electric, a wrong password is Red.
+[lock]
+background       = "#03070D"
+background-alpha = 0.8
+text             = "#F0F8FF"
+placeholder      = "#819AAF"
+text-error       = "#FF5263"
+border           = "#087CA7"
+border-active    = "#00E5FF"
+border-error     = "#FF5263"
+border-alpha     = 1.0
+selection        = "#00E5FF"
+selection-alpha  = 0.45
