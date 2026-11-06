@@ -2,6 +2,10 @@
 
 **Digital Frontier.** A dark Omarchy theme inspired by TRON: Legacy. Black and navy surfaces, one electric cyan accent for what matters, orange only for alerts.
 
+<p align="center">
+  <img src="preview.png" alt="Tron applied to the Omarchy desktop: the Rio wallpaper in cyan and orange under a dark bar with workspaces, system stats, clock and tray" width="100%">
+</p>
+
 ## Install
 
 ```bash
