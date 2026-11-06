@@ -62,6 +62,19 @@ White on the Deep Blue selection is 8.47 and Electric on it is 5.91. Disabled te
 - `shell.lock.toml`: circuit-blue border at rest, electric cyan while typing, red on a wrong password.
 - `icons.theme`: Yaru-blue folders.
 - `keyboard.rgb`: electric cyan keyboard backlight.
+- `backgrounds/`: the theme's wallpapers.
+
+## Wallpapers
+
+<p align="center">
+  <img src="backgrounds/tron-rio-digital-frontier.webp" alt="Rio de Janeiro at night as a TRON grid: a cyan-outlined Christ the Redeemer above Guanabara Bay, with orange light trails along the roads and Sugarloaf Mountain" width="100%">
+</p>
+
+**Rio · Digital Frontier.** Cyan geometry over a dark city, with orange light trails on the roads.
+
+The wallpaper is 1672 × 941 and not native 4K. Landscape displays work best, and fill mode on ultrawide, 16:10 or portrait displays may crop the statue.
+
+The wallpaper was generated with ChatGPT (OpenAI image generation).
 
 ## License
 
