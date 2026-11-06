@@ -82,4 +82,6 @@ Para voltar: `omarchy theme set "Circuit Horizon"` e `rm ~/.config/omarchy/theme
 
 ## Base e licença
 
-A estrutura segue o tema [Circuit Horizon](https://github.com/jennabrinning/omarchy-circuit-horizon-theme) (MIT). Nenhum arquivo ou wallpaper dele foi copiado. A licença deste projeto ainda precisa ser definida.
+A estrutura segue o tema [Circuit Horizon](https://github.com/jennabrinning/omarchy-circuit-horizon-theme) (MIT). Nenhum arquivo ou wallpaper dele foi copiado.
+
+Licenciado sob a [MIT](LICENSE). TRON é um tema da comunidade, sem afiliação com o Omarchy, TRON ou a Disney.
