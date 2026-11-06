@@ -1,23 +1,23 @@
-# TRON for Omarchy
+# Tron The Legacy for Omarchy
 
 **Digital Frontier.** A dark Omarchy theme inspired by TRON: Legacy. Black and navy surfaces, one electric cyan accent for what matters, orange only for alerts.
 
 <p align="center">
-  <img src="preview.png" alt="Tron applied to the Omarchy desktop: the Rio wallpaper in cyan and orange under a dark bar with workspaces, system stats, clock and tray" width="100%">
+  <img src="preview.png" alt="Tron The Legacy applied to the Omarchy desktop: the Rio wallpaper in cyan and orange under a dark bar with workspaces, system stats, clock and tray" width="100%">
 </p>
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/Murillofilho86/omarchy-tron-theme
+omarchy theme install https://github.com/Murillofilho86/omarchy-tron-the-legacy-theme
 ```
 
-Omarchy installs and applies **Tron**.
+Omarchy installs and applies **Tron The Legacy**.
 
 To apply it again later:
 
 ```bash
-omarchy theme set Tron
+omarchy theme set "Tron The Legacy"
 ```
 
 Recommended font: JetBrainsMono Nerd Font, included with Omarchy.
@@ -85,4 +85,4 @@ The wallpapers were generated with ChatGPT (OpenAI image generation).
 
 ## License
 
-[MIT licensed](LICENSE). TRON is a community theme, not affiliated with Omarchy, TRON or Disney.
+[MIT licensed](LICENSE). Tron The Legacy is a community theme, not affiliated with Omarchy, TRON or Disney.
