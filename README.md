@@ -70,12 +70,16 @@ White on the Deep Blue selection is 8.47 and Electric on it is 5.91. Disabled te
 
 ## Wallpapers
 
-Both wallpapers are roughly 1672 × 941 and not native 4K. Click an image to open the full-resolution file. Cycle between them with `omarchy theme bg next`.
+All four wallpapers are roughly 1672 × 941 and not native 4K. Click an image to open the full-resolution file. Cycle between them with `omarchy theme bg next`.
 
 <table>
   <tr>
     <td width="50%" align="center"><a href="backgrounds/01-tron-rio-digital-frontier.webp"><img src="backgrounds/01-tron-rio-digital-frontier.webp" alt="Rio de Janeiro at night as a TRON grid: a cyan-outlined Christ the Redeemer above Guanabara Bay, with orange light trails along the roads and Sugarloaf Mountain" width="100%"></a><br><b>Rio · Digital Frontier</b><br>Cyan geometry over a dark city, with orange light trails on the roads.</td>
     <td width="50%" align="center"><a href="backgrounds/02-tron-new-york-dark-water-reflections.webp"><img src="backgrounds/02-tron-new-york-dark-water-reflections.webp" alt="A cyan-lit New York skyline with the Empire State Building under a thin glowing arc, mirrored in still dark water" width="100%"></a><br><b>New York · Dark Water Reflections</b><br>A quiet neon skyline over still water, with plenty of dark space for windows.</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="backgrounds/03-tron-disc-battle-arena.webp"><img src="backgrounds/03-tron-disc-battle-arena.webp" alt="A cyan-lit TRON fighter in the foreground throws a glowing disc at an orange-lit opponent across a reflective grid floor, under a tall central tower" width="100%"></a><br><b>Disc Battle · Arena</b><br>A cyan fighter faces an orange opponent across a mirrored grid floor.</td>
+    <td width="50%" align="center"><a href="backgrounds/04-tron-lightcycle-arena.webp"><img src="backgrounds/04-tron-lightcycle-arena.webp" alt="A cyan light cycle in the foreground and an orange one in the distance race across a reflective grid arena, leaving light trails, under a tall central tower" width="100%"></a><br><b>Lightcycle · Arena</b><br>Two light cycles on a dark grid, with cyan and orange light trails.</td>
   </tr>
 </table>
 
